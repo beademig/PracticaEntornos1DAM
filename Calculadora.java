@@ -5,7 +5,7 @@
 package beatrizdemiguelramirez.git;
 
 /**
- *
+ * He introducido comentarios javadoc en la clase
  * @author beade
  */
 public class Calculadora {
@@ -53,4 +53,5 @@ public class Calculadora {
     {
         return operador1*operador2;
     }
+    
 }
